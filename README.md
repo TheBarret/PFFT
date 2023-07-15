@@ -14,12 +14,11 @@ Understanding the nature of latency:
 By looking at the spectrum, you can get a better understanding of whether latency issues are steady, periodic, or random.
 Keep in mind that interpreting the FFT results in terms of frequencies requires knowledge of the sample rate. In this context, the "sample rate" is the rate at which you're sending ICMP pings and recording the round-trip times. For example, if you're sending pings once per second, then the Nyquist frequency (the maximum frequency you can resolve) is 0.5 Hz, and the frequency of each FFT bin is given by f = bin_number / N, where N is the total number of bins (equal to the number of pings). Be sure to take this into account when interpreting your results.
 
-Good example of showing a spike in the 0,30 ~ 0,40
+Example of showing a spike in the 0,30 ~ 0,40 at a sample rate of 1024, result from www.google.nl
 ![image](https://github.com/TheBarret/PFFT/assets/25234371/e9e62654-9a56-42f6-96be-62a32c46bb95)
 
-
-Quick run ICMP Spectrum (Samplerate: 512)
+Short test run on 512 sample rate
 ![image](https://github.com/TheBarret/PFFT/assets/25234371/df6a58ca-fff7-4e1f-b160-8e126d736f68)
 
-Long run ICMP Spectrum (Samplerate: 512):
+Long test run on 512 sample rate
 ![image](https://github.com/TheBarret/PFFT/assets/25234371/299bf54e-89ed-4290-b88e-d2d9cdacb8b9)
