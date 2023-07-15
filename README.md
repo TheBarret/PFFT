@@ -1,5 +1,5 @@
 # PFFT
-ICMP TTL to FFT Spectrum (POC/WIP)
+Showing ICMP TTL data in a Fast Fourier Transformer (POC/WIP)
 
 
 Quick run ICMP Spectrum (Samplerate: 512)
