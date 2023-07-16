@@ -18,5 +18,9 @@ Example of showing a spike in the 0,30 ~ 0,40 at a sample rate of 1024, result f
 ![image](https://github.com/TheBarret/PFFT/assets/25234371/e9e62654-9a56-42f6-96be-62a32c46bb95)
 
 
-Current (WIP) version:
+Process of development:
+
 ![image](https://github.com/TheBarret/PFFT/assets/25234371/3091493c-5f69-48e4-ab7f-b0ecd7d29aee)
+
+![image](https://github.com/TheBarret/PFFT/assets/25234371/54dbd47a-b0f2-4911-8f25-2d443a6de0dd)
+
