@@ -17,8 +17,6 @@ Keep in mind that interpreting the FFT results in terms of frequencies requires 
 Example of showing a spike in the 0,30 ~ 0,40 at a sample rate of 1024, result from www.google.nl
 ![image](https://github.com/TheBarret/PFFT/assets/25234371/e9e62654-9a56-42f6-96be-62a32c46bb95)
 
-Short test run on 512 sample rate
-![image](https://github.com/TheBarret/PFFT/assets/25234371/df6a58ca-fff7-4e1f-b160-8e126d736f68)
 
-Long test run on 512 sample rate
-![image](https://github.com/TheBarret/PFFT/assets/25234371/299bf54e-89ed-4290-b88e-d2d9cdacb8b9)
+Current (WIP) version:
+![image](https://github.com/TheBarret/PFFT/assets/25234371/3091493c-5f69-48e4-ab7f-b0ecd7d29aee)
